@@ -1,4 +1,4 @@
-# AI Technology and Evolutio
+# AI Technology and Evolution
 
 This repository contains information about AI technology and its evolution, as well as details about the latest tools and developments in the field. It also provides insights into ChatGPT, an advanced language model developed by OpenAI.
 
